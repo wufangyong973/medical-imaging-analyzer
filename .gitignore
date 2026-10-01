@@ -123,7 +123,6 @@ dmypy.json
 .pyre/
 
 # IDE specific
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -155,3 +154,7 @@ output/
 .env.local
 secrets.json
 credentials.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
